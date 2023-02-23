@@ -10,5 +10,7 @@
 – [Forschungsportal](https://forschung-sachsen-anhalt.de/pl/kuiter-117313)
 – [Twitter](https://twitter.com/ekuiter)**
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula#gh-dark-mode-only)
-![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&hide_rank=true">
+</picture>
