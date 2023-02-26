@@ -2,7 +2,7 @@
 
 I am a researcher in software engineering, specifically regarding software variability and its ties to automated reasoning and formal methods.
 I am currently a PhD student at the university of Magdeburg in Germany.
-Find my projects below or [contact me](kuiter@ovgu.de).
+Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 
 **[About Me](https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html)
 – [Publications](https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter/Publikationen.html)
