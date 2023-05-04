@@ -8,8 +8,9 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 – [Publications](https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter/Publikationen.html)
 – [Google Scholar](https://scholar.google.de/citations?user=iEVEpeIAAAAJ)
 – [dblp](https://dblp.uni-trier.de/pid/226/7719.html)
-– [ResearchGate](https://www.researchgate.net/profile/Elias_Kuiter)
-– [ORCID](https://orcid.org/0000-0003-0429-2461)
+– [ResearchGate](https://www.researchgate.net/profile/Elias_Kuiter)**
+<br>
+**[ORCID](https://orcid.org/0000-0003-0429-2461)
 – [ACM](https://dl.acm.org/profile/99659308621)
 – [Web of Science](https://www.webofscience.com/wos/author/record/IAN-0538-2023)
 – [Forschungsportal](https://forschung-sachsen-anhalt.de/pl/kuiter-117313)
