@@ -25,10 +25,16 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   <summary>Presentations</summary>
 
   <table>
-  <tr><td>
-  <a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf"><img src="./2024-02-07-FM-Complexity.png" width=500></a>
-  </td><td>
-  <a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-07-04-SAT-Tseitin.pdf"><img src="./2023-07-04-SAT-Tseitin.png" width=500></a>
-  </td></tr>
+  <tr>
+  <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf"><img src="./2024-02-07-FM-Complexity.png" width=500></a></td>
+  <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-07-04-SAT-Tseitin.pdf"><img src="./2023-07-04-SAT-Tseitin.png" width=500></a>
+  </td>
+  </tr><tr>
+  <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-02-22-SE-Tseitin.pdf"><img src="./2023-02-22-SE-Tseitin.png" width=500></a></td>
+  <td><a href="https://raw.githubusercontent.com/ekuiter/variED-meta/master/se23-slides.pdf"><img src="./2023-02-22-SE-variED.png" width=500></a></td>
+  </tr><tr>
+  <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2022/2022-10-13-ASE-Tseitin.pdf"><img src="./2022-10-13-ASE-Tseitin.png" width=500></a></td>
+  <td><img src="./2022-03-31-FOSD-Tseitin.png" width=500></td>
+  </tr>
   </table>
 </details>
