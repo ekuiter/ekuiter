@@ -47,7 +47,7 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 <details>
   <summary><strong>Lectures</strong></summary>
   
-  - [**Course on Software Product Lines**](https://github.com/SoftVarE-Group/Course-on-Software-Product-Lines)
+  - [**Course on Software Product Lines**](https://github.com/SoftVarE-Group/Course-on-Software-Product-Lines) (2023)
     - [SPL04a Feature Models and Configurations](https://www.youtube.com/watch?v=WbhaXgkFLH4&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=11)
     - [SPL04b Transforming Feature Models](https://www.youtube.com/watch?v=KJ620XysK28&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=12)
     - [SPL04c Analyzing Feature Models](https://www.youtube.com/watch?v=OpSaA1Nt56w&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=13)
