@@ -17,7 +17,7 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 – [Twitter](https://twitter.com/ekuiter)**
 
 <details>
-  <summary><strong>Contributions</strong></summary>
+  <summary><strong>Statistics</strong></summary>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula">
     <img src="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true">
@@ -50,4 +50,16 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   <td><a href="https://raw.githubusercontent.com/ekuiter/uvr2web-spl/master/2018-09-12-SPLC-Getting-Rid.pdf"><img src="./thumbnails/2018-09-12-SPLC-Getting-Rid.png" width=500></a></td>
   </tr>
   </table>
+</details>
+
+<details>
+  <summary><strong>Lectures</strong></summary>
+  
+  - [**Course on Software Product Lines**](https://github.com/SoftVarE-Group/Course-on-Software-Product-Lines)
+    - [SPL04a Feature Models and Configurations](https://www.youtube.com/watch?v=WbhaXgkFLH4&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=11)
+    - [SPL04b Transforming Feature Models](https://www.youtube.com/watch?v=KJ620XysK28&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=12)
+    - [SPL04c Analyzing Feature Models](https://www.youtube.com/watch?v=OpSaA1Nt56w&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=13)
+    - [SPL10a Analysis Strategies](https://www.youtube.com/watch?v=W_PtKtG4MTo&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=29)
+    - [SPL10b Analyzing Feature Mappings](https://www.youtube.com/watch?v=lfnsBacENHU&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=30)
+    - [SPL10c Analyzing Variable Code](https://www.youtube.com/watch?v=ICb1xShuicY&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=31)
 </details>
