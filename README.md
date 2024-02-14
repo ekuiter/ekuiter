@@ -30,23 +30,5 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   </td><td>
   <a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-07-04-SAT-Tseitin.pdf"><img src="./2023-07-04-SAT-Tseitin.png" width=500></a>
   </td></tr>
-  <tr><td>
- 
-  [![](./2023-02-22-SE-Tseitin.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-02-22-SE-Tseitin.pdf)
-  
-  </td><td>
-
-  [![](./2023-02-22-SE-variED.png)](https://raw.githubusercontent.com/ekuiter/variED-meta/master/se23-slides.pdf)
-
-  </td></tr>
-  <tr><td>
- 
-  [![](./2022-10-13-ASE-Tseitin.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2022/2022-10-13-ASE-Tseitin.pdf)
-  
-  </td><td>
-
-  ![](./2022-03-31-FOSD-Tseitin.png)
-
-  </td></tr>
   </table>
 </details>
