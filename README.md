@@ -26,13 +26,9 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 
   <table>
   <tr><td>
-
-  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
-
+  <a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf"><img src="./2024-02-07-FM-Complexity.png" width=500></a>
   </td><td>
-
-  [![](./2023-07-04-SAT-Tseitin.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-07-04-SAT-Tseitin.pdf)
-  
+  <a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-07-04-SAT-Tseitin.pdf"><img src="./2023-07-04-SAT-Tseitin.png" width=500></a>
   </td></tr>
   <tr><td>
  
