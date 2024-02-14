@@ -21,6 +21,12 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   <img src="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true">
 </picture>
 
+<style type="text/css" rel="stylesheet">
+table > thead:has(> tr > th:empty):not(:has(> tr > th:not(:empty))) {
+  display: none;
+}
+</style>
+
 <details>
   <summary>Presentations</summary>
 
