@@ -27,21 +27,30 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   <table>
   <tr><td>
 
-  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
+  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
 
   </td><td>
-  
-  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
-  
-  </td><td>
 
-  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
+  [![](./2023-07-04-SAT-Tseitin.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-07-04-SAT-Tseitin.pdf)
   
   </td></tr>
   <tr><td>
  
-  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
+  [![](./2023-02-22-SE-Tseitin.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-02-22-SE-Tseitin.pdf)
+  
+  </td><td>
+
+  [![](./2023-02-22-SE-variED.png)](https://raw.githubusercontent.com/ekuiter/variED-meta/master/se23-slides.pdf)
+
+  </td></tr>
+  <tr><td>
  
+  [![](./2022-10-13-ASE-Tseitin.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2022/2022-10-13-ASE-Tseitin.pdf)
+  
+  </td><td>
+
+  ![](./2022-03-31-FOSD-Tseitin.png)
+
   </td></tr>
   </table>
 </details>
