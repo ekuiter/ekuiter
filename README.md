@@ -16,10 +16,13 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 – [Forschungsportal](https://forschung-sachsen-anhalt.de/pl/kuiter-117313)
 – [Twitter](https://twitter.com/ekuiter)**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true">
-</picture>
+<details>
+  <summary><strong>Contributions</strong></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true">
+  </picture>
+</details>
 
 <details>
   <summary><strong>Presentations</strong></summary>
