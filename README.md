@@ -25,10 +25,23 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   <summary>Presentations</summary>
 
   <table>
-  <tr>
-  <td>[![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)</td>
-  <td>[![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)</td>
-  <td>[![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)</td>
-  </tr>
+  <tr><td>
+
+  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
+
+  </td><td>
+  
+  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
+  
+  </td><td>
+
+  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
+  
+  </td></tr>
+  <tr><td>
+ 
+  [![](./2024-02-07-FM-Complexity.png)](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)VaMoS'24 – [Paper](https://raw.githubusercontent.com/SoftVarE-Group/Papers/main/2024/2024-VaMoS-Kuiter.pdf) – [Slides](https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf)
+ 
+  </td></tr>
   </table>
 </details>
