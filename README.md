@@ -17,15 +17,7 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 – [Twitter](https://twitter.com/ekuiter)**
 
 <details>
-  <summary><strong>Statistics</strong></summary>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true">
-  </picture>
-</details>
-
-<details>
-  <summary><strong>Presentations</strong></summary>
+  <summary><strong>Slides</strong></summary>
   <table>
   <tr>
   <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-FM-Complexity.pdf"><img src="./thumbnails/2024-02-07-FM-Complexity.png" width=500></a></td>
@@ -62,4 +54,12 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
     - [SPL10a Analysis Strategies](https://www.youtube.com/watch?v=W_PtKtG4MTo&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=29)
     - [SPL10b Analyzing Feature Mappings](https://www.youtube.com/watch?v=lfnsBacENHU&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=30)
     - [SPL10c Analyzing Variable Code](https://www.youtube.com/watch?v=ICb1xShuicY&list=PL4hJhdKDPIxha8So7muX2zfNUU8NBoiu3&index=31)
+</details>
+
+<details>
+  <summary><strong>Statistics</strong></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true">
+  </picture>
 </details>
