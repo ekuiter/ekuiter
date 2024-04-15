@@ -1,4 +1,4 @@
-<img src="./pingus.svg" width="100%">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./pingus-dark.svg"><img src="./pingus.svg" width="100%"></picture>
 
 **Hi there! 👋**
 
