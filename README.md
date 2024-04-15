@@ -1,6 +1,6 @@
-**Hi there! 👋**
+<img src="./pingus.svg" width="100%">
 
-![Variability in the Linux kernel](./pingus.svg)
+**Hi there! 👋**
 
 I am a software engineering researcher with an interest in modeling and reasoning about software variability.
 I am currently a research assistant and PhD student at the University of Magdeburg in Germany.
