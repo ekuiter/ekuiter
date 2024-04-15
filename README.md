@@ -24,7 +24,7 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   <summary><strong>Slides</strong></summary>
   <table>
   <tr>
-  <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/blob/main/2024/2024-04-10-FOSD-Linux.pdf"><img src="./thumbnails/2024-04-10-FOSD-Linux.png" width=500></a></td>
+  <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-04-10-FOSD-Linux.pdf"><img src="./thumbnails/2024-04-10-FOSD-Linux.png" width=500></a></td>
   </td>
   <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-VaMoS-FM-Complexity.pdf"><img src="./thumbnails/2024-02-07-VaMoS-FM-Complexity.png" width=500></a></td>
   </tr><tr>
