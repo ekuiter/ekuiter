@@ -24,26 +24,29 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
   <summary><strong>Slides</strong></summary>
   <table>
   <tr>
+  <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/blob/main/2024/2024-04-10-FOSD-Linux.pdf"><img src="./thumbnails/2024-04-10-FOSD-Linux.png" width=500></a></td>
+  </td>
   <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2024/2024-02-07-VaMoS-FM-Complexity.pdf"><img src="./thumbnails/2024-02-07-VaMoS-FM-Complexity.png" width=500></a></td>
+  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-07-04-SAT-Tseitin.pdf"><img src="./thumbnails/2023-07-04-SAT-Tseitin.png" width=500></a>
   </td>
-  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2023/2023-02-22-SE-Tseitin.pdf"><img src="./thumbnails/2023-02-22-SE-Tseitin.png" width=500></a></td>
+  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/ekuiter/variED-meta/master/se23-slides.pdf"><img src="./thumbnails/2023-02-22-SE-variED.png" width=500></a></td>
-  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2022/2022-10-13-ASE-Tseitin.pdf"><img src="./thumbnails/2022-10-13-ASE-Tseitin.png" width=500></a></td>
+  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/SoftVarE-Group/Slides/main/2022/2022-03-31-FOSD-Tseitin.pdf"><img src="./thumbnails/2022-03-31-FOSD-Tseitin.png" width=500></a></td>
-  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/ekuiter/KeYPl/master/VaMoS 2022 Presentation.pdf"><img src="./thumbnails/2022-02-24-VaMoS-KeYPl.png" width=500></a></td>
+  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/ekuiter/pignap-case-study/master/SPLC 2021 Presentation.pdf"><img src="./thumbnails/2021-09-07-SPLC-PigNap.png" width=500></a></td>
-  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/ekuiter/KeYPR/master/2021-01-08-Master-Thesis-Defense.pdf"><img src="./thumbnails/2021-01-08-Master-Thesis-Defense.png" width=500></a></td>
+  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/ekuiter/variED-meta/master/splc19-foundations-slides.pdf"><img src="./thumbnails/2019-09-12-SPLC-variED.png" width=500></a></td>
-  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/ekuiter/variED-meta/master/thesis-slides.pdf"><img src="./thumbnails/2019-04-23-Bachelor-Thesis-Defense.png" width=500></a></td>
-  <td><a href="https://raw.githubusercontent.com/ekuiter/variED-meta/master/fosd19-slides.pdf"><img src="./thumbnails/2019-03-12-FOSD-variED.png" width=500></a></td>
   </tr><tr>
+  <td><a href="https://raw.githubusercontent.com/ekuiter/variED-meta/master/fosd19-slides.pdf"><img src="./thumbnails/2019-03-12-FOSD-variED.png" width=500></a></td>
   <td><a href="https://raw.githubusercontent.com/ekuiter/PCLocator/master/splc18-pclocator-slides.pdf"><img src="./thumbnails/2018-09-12-SPLC-PCLocator.png" width=500></a></td>
+  </tr><tr>
   <td><a href="https://raw.githubusercontent.com/ekuiter/uvr2web-spl/master/2018-09-12-SPLC-Getting-Rid.pdf"><img src="./thumbnails/2018-09-12-SPLC-Getting-Rid.png" width=500></a></td>
   </tr>
   </table>
