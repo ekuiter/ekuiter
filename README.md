@@ -1,6 +1,6 @@
 **Hi there! 👋**
 
-[!](./pingus.svg)
+![](./pingus.pdf)
 
 I am a software engineering researcher with an interest in modeling and reasoning about software variability.
 I am currently a research assistant and PhD student at the University of Magdeburg in Germany.
