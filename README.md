@@ -18,7 +18,7 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 – [Twitter](https://twitter.com/ekuiter)**
 
 <details>
-  <summary><strong><a href="https://elias-kuiter.de/publications.php">Papers</a></strong></summary>
+  <summary><strong><a href="https://elias-kuiter.de/publications.php">Publications</a></strong></summary>
   <p>A list of my research publications is available <a href="https://elias-kuiter.de/publications.php">here</a>.</p>
 </details>
 
