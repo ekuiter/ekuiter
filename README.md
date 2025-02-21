@@ -76,8 +76,8 @@ Find my projects below or [contact me](mailto:kuiter@ovgu.de).
 </details>
 
 <details>
-  <summary><strong><a href="https://www.dbse.ovgu.de/Abschlussarbeiten/_/thesis-topics.pdf">Thesis Topics</a></strong></summary>
-  <p>An overview of my thesis topics and software projects is available <a href="https://www.dbse.ovgu.de/Abschlussarbeiten/_/thesis-topics.pdf">here</a>.</p>
+  <summary><strong><a href="https://raw.githubusercontent.com/ekuiter/ekuiter/main/thesis-topics.pdf">Thesis Topics</a></strong></summary>
+  <p>An overview of my thesis topics and software projects is available <a href="https://raw.githubusercontent.com/ekuiter/ekuiter/main/thesis-topics.pdf">here</a>.</p>
 </details>
 
 <details>
