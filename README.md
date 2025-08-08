@@ -5,7 +5,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ekuiter">
 </picture>
 
-<br>
+<p></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ekuiter&count_private=true&show_icons=true&hide_title=true&hide_rank=true&theme=dracula">
